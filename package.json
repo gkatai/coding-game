@@ -1,0 +1,19 @@
+{
+  "name": "coding-game",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkatai/coding-game.git"
+  },
+  "author": "gkatai",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/gkatai/coding-game/issues"
+  },
+  "homepage": "https://github.com/gkatai/coding-game#readme"
+}
